@@ -5,17 +5,12 @@ In this project we will be building and deploying a machine learning model in th
 
 We will begin by wrangling the data and performing some EDA, while also demonstrating the limits of personal computing technology in this process. We will then move the process to the cloud and move forward choosing, training and tuning an appropriate machine learning model on the data while also improving our data management and cloud computing approach.
 
-## Contributing
+## Team members
 Our team:
 
-|   Name   |  Email   |
-|----------|----------|
-|Gabe Fairbrother|gfairbrother@gmail.com|
-|Rakesh Pandey| |
-|Mahsa Sarafrezi| |
-|Michelle Wang| |
-
-For more details on how to contribute, please review our [Contributing Guidelines](Contributing.md)
-Please note we have a [Code of Conduct](Conduct.md) that we expect be adhered to when contributing.
-
-
+|   Name   | 
+|----------|
+|Gabe Fairbrother|
+|Rakesh Pandey|  
+|Mahsa Sarafrezi| 
+|Michelle Wang| 
