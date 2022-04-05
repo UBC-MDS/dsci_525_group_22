@@ -14,3 +14,6 @@ Our team:
 |Rakesh Pandey|  
 |Mahsa Sarafrezi| 
 |Michelle Wang| 
+
+##Server
+ec2-54-149-233-8.us-west-2.compute.amazonaws.com
